@@ -5,13 +5,16 @@
 1、工具介绍
 此工具是监控一些常见的病毒、Webshell、计划任务、服务等。
 可与前面的流量工具结合使用，两个工具没整合到一起。
+
 https://www.bilibili.com/video/BV1WRxseYETt/?vd_source=229f70258c44853078f16a5decbc2fb0
 
  ![图片](https://github.com/user-attachments/assets/bbba6af2-8b2e-43f8-a771-1ad516e5d053)
 
 
 2、适用场景
+
 (1)、红队：主要是防止被Github、某某公众号、星球等上的开源(闭源)工具有意或无意的投毒。
+
 (2)、蓝队：攻防对抗演练护网期间使用，适合于裸奔的客户。
 
 3、工具监控截图(每个部分都有单独的日志留存)
