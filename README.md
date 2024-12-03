@@ -15,6 +15,7 @@ https://www.bilibili.com/video/BV1WRxseYETt/?vd_source=229f70258c44853078f16a5de
 1、视频操作手册：
 本视频。
 
+
 2、适用场景：
 
 (1)、红队：主要是防止被Github、某某公众号、星球等上面的开源(或闭源)工具有意或无意的投毒。
@@ -23,7 +24,9 @@ https://www.bilibili.com/video/BV1WRxseYETt/?vd_source=229f70258c44853078f16a5de
 
 (3)、病毒分析人员：调试分析病毒木马期间，监控释放的文件、创建的服务等等。
 
+
 3、监控的内容：
+
 1）默认监控常用病毒木马落地磁盘的类型
 
 默认监控的文件类型已经内置。
